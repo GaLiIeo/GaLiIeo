@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
   <samp>
-I'm Aniket. An IT Engineer Student from Ahmedabad, Gujarat.
+I'm Aniket. An IT Engineer from London,ON.
     <br>
     - 🔭 I usually work on something magnificent :) 
      <br><br>Contact me on 💬<a href="https://linkedin.com/in/aniketmishra267/">LinkedIn</a> or 📫<a href="mailto:mishraaniket267@gmail.com">Send an Email</a>
